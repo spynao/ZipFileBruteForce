@@ -1,0 +1,9 @@
+# ZipFileBruteForce
+
+$ git clone https://github.com/spynao/ZipFileBruteForce
+
+$ cd ZipFileBruteForce
+
+$ python zipfilecracker.py
+
+Then, after you write the wordlist file with the name of your encrypted zip file and the passwords to be tried, the attack starts and tells you the password when it finds it. is for educational purposes.
